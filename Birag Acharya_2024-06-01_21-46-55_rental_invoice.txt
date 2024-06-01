@@ -1,0 +1,45 @@
+
+________________________________________________________________
+Date: 2024-06-01 21:46:55
+____________________    Rental Invoice     _____________________
+                                                                
+ ******************** Birag Equipment Store ********************
+    ---------------------Inaruwa,Nepal----------------------    
+   PAN No. 77777                          Contact No.: 980010200
+----------------------------------------------------------------
+Customer Name: Birag Acharya
+
+Transaction #1:
+Equipment Name: Disco Light Set
+Brand Name: Sonoff
+Rental Duration: 6 days
+Quantity Rented: 4
+Price per 5 days: $322.00
+Total Amount: $2576.00
+----------------------------------------------------------------
+
+Total Rental Amount: $2616.00
+----------------------------------------------------------------
+                    Kindly check your Bill
+      We hope to serve you again at Birag Equipment Store!!!     
+_________________________________________________________________
+
+======================================================================
+
+
+Transaction #2:
+Equipment Name: Velvet Table Cloth
+Brand Name: Saathi
+Rental Duration: 3 days
+Quantity Rented: 5
+Price per 5 days: $8.00
+Total Amount: $40.00
+----------------------------------------------------------------
+
+Total Rental Amount: $2616.00
+----------------------------------------------------------------
+                    Kindly check your Bill
+      We hope to serve you again at Birag Equipment Store!!!     
+_________________________________________________________________
+
+======================================================================
