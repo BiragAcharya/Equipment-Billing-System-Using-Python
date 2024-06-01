@@ -1,3 +1,3 @@
-# Equipment-Billing-System-Using-Python
+# Equipment-Rental-System-Using-Python
 
-Hello there, this is the Equipment Billing System using Python language.
+Hello there, this is the Equipment Rental System using Python language.
